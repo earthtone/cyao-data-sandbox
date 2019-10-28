@@ -1,0 +1,17 @@
+{
+  "name": "cyoa-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "front-matter": "^3.0.2",
+    "markdown-it": "^10.0.0",
+    "markdown-it-front-matter": "^0.1.2"
+  }
+}
